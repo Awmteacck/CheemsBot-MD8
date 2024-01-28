@@ -21,27 +21,27 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['919362641982'] //ur owner number
-global.ownernomer = "919362641982" //ur owner number2
+global.owner = ['918787651195'] //ur owner number
+global.ownernomer = "918787651195" //ur owner number2
 global.ownername = "🦄Awmtea Polythene" //ur owner name
 global.ytname = "YT: Awmtea Polythene" //ur yt chanel name
 global.socialm = "GitHub: Awmteacck" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
-global.botname = "Cheems Bot MD V8"
-global.ownernumber = '919362641982'
+global.botname = "Mr.Bot MD V8"
+global.ownernumber = '918787651195'
 global.ownername = '🦄Awmtea Polythene'
 global.ownerNumber = ["919362641982@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@DGXeon"
 global.websitex = "https://youtu.be/L_SIk59QeAU"
 global.wagc = "https://chat.whatsapp.com/Dc2qyVeK8JbJq8Gr3U1pKH"
 global.themeemoji = '🪀'
-global.wm = "Xeon Bot Inc."
+global.wm = "Mr.Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
 global.packname = "Sticker By"
 global.author = "🦄Awmtea Polythene"
-global.creator = "919362641982@s.whatsapp.net"
+global.creator = "918787651195@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
 global.hituet = 0
